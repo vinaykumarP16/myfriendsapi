@@ -1,0 +1,23 @@
+{
+  "name": "myfriendsapi",
+  "version": "1.0.0",
+  "description": "myfriends api lets go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaykumarP16/myfriendsapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaykumarP16/myfriendsapi/issues"
+  },
+  "homepage": "https://github.com/vinaykumarP16/myfriendsapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
